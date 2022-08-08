@@ -1,0 +1,30 @@
+/*images*/
+
+.img
+{   width: 200px;
+    height:200px;
+border-style:double; border-color: rgb(199, 3, 3); border-width: 10px; 
+border-radius: 10%;
+
+}
+
+/*background*/
+
+.background_color{
+    background-color: black ; 
+    color:rgb(103, 99, 99);
+}
+/*text*/
+
+.text{
+    text-align: center; 
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        cursor: pointer;
+        border-style: dotted;
+}
+/*Header3_bullets*/
+
+.h3{display: table;
+    margin: 0 auto;}
+
+
